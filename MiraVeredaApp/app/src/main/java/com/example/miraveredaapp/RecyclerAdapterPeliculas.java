@@ -2,9 +2,9 @@
     private int layout;
 
     private Context context;
-    private Contenido contenido;
+    private model.Contenido contenido;
 
-    public RecyclerAdapterPeliculas(Context context,int layout, Contenido contenido) {
+    public RecyclerAdapterPeliculas(Context context,int layout, model.Contenido contenido) {
         super();
         this.layout = layout;
         this.context = context;

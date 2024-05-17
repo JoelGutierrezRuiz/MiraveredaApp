@@ -4,8 +4,6 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.RecyclerView;
-
-import com.example.miravereda.R;
 import com.google.android.material.textfield.TextInputLayout;
 
 public class RecyclerPeliculasActivity extends AppCompatActivity {
