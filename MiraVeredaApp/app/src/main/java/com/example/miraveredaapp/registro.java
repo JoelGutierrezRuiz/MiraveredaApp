@@ -5,8 +5,6 @@ import android.widget.ImageView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.example.miravereda.R;
-
 import base.ImageDownloader;
 
 public class registro extends AppCompatActivity {
