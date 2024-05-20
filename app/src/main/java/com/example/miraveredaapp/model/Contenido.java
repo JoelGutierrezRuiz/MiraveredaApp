@@ -1,30 +1,31 @@
 package com.example.miraveredaapp.model;
 
-import java.util.Date;
-import java.util.List;
+import java.sql.Date;
 
-public class Contenido {
-    private int id_tarifa;
-    private String descripcion;
-    private Date fecha;
-    private double valoracionMedia;
+public abstract class Contenido {
+    private int id;
     private String nombreDire;
-    private int duracion;
     private String genero;
-    private Tipo tipo;
-    private Date changedTS;
-    private List<? extends Contenido> contenidos;
+    private int id_tarifa;
+    private Date fecha;
+    private float valoMedia;
+    private String desc;
+    private int duracion;
+    private String tipo;
+    private String titulo;
+    private String img;
 
-    public Contenido(int id_tarifa, String descripcion, Date fecha, double valoracionMedia, String nombreDire, int duracion, String genero, Tipo tipo, Date changedTS) {
-        this.id_tarifa = id_tarifa;
-        this.descripcion = descripcion;
-        this.fecha = fecha;
-        this.valoracionMedia = valoracionMedia;
+    public Contenido(int id, String nombreDire, String genero, int id_tarifa, Date fecha, float valoMedia, String desc, int duracion, String tipo, String titulo, String img) {
+        this.id = id;
         this.nombreDire = nombreDire;
-        this.duracion = duracion;
         this.genero = genero;
+        this.id_tarifa = id_tarifa;
+        this.fecha = fecha;
+        this.valoMedia = valoMedia;
+        this.desc = desc;
+        this.duracion = duracion;
         this.tipo = tipo;
-        this.changedTS = changedTS;
+        this.titulo = titulo;
+        this.img = img;
     }
 }
-

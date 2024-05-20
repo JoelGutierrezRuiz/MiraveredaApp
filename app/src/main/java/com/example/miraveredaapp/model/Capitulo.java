@@ -1,9 +1,15 @@
 package com.example.miraveredaapp.model;
 
-import java.util.Date;
+
+import java.sql.Date;
 
 public class Capitulo extends Contenido{
-    public Capitulo(int id_tarifa, String descripcion, Date fecha, double valoracionMedia, String nombreDire, int duracion, String genero,  Tipo tipo, Date changedTS) {
-        super(id_tarifa, descripcion, fecha, valoracionMedia, nombreDire, duracion, genero, tipo, changedTS);
+    private String nombre;
+    private Integer disponibilidad;
+
+    public Capitulo(int id, String nombreDire, String genero, int id_tarifa, Date fecha, float valoMedia, String desc, int duracion, String tipo, String titulo, String img, String nombre, Integer disponibilidad) {
+        super(id, nombreDire, genero, id_tarifa, fecha, valoMedia, desc, duracion, tipo, titulo, img);
+        this.nombre = nombre;
+        this.disponibilidad = disponibilidad;
     }
 }
