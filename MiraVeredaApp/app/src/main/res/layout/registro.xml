@@ -120,8 +120,9 @@
             android:text="¿Ya tienes cuenta de MiraVereda?"
             android:textColor="#FFFFFF"
             app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/btnRegistro"
-            tools:layout_editor_absoluteX="45dp" />
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btnRegistro" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 
