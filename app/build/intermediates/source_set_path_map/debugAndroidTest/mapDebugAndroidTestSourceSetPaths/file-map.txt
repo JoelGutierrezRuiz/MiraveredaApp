@@ -1,0 +1,6 @@
+com.example.miraveredaapp.test.app-annotation-experimental-1.4.0-0 /home/ilisl/.gradle/caches/transforms-4/315a1f157a570dcef230ae814ee3243d/transformed/annotation-experimental-1.4.0/res
+com.example.miraveredaapp.test.app-core-1.5.0-1 /home/ilisl/.gradle/caches/transforms-4/5a14e9ad5317240038a8142d855424a9/transformed/core-1.5.0/res
+com.example.miraveredaapp.test.app-androidTest-2 /home/ilisl/AndroidStudioProjects/MiraVeredaApp/app/build/generated/res/resValues/androidTest/debug
+com.example.miraveredaapp.test.app-mergeDebugAndroidTestResources-3 /home/ilisl/AndroidStudioProjects/MiraVeredaApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.miraveredaapp.test.app-mergeDebugAndroidTestResources-4 /home/ilisl/AndroidStudioProjects/MiraVeredaApp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.miraveredaapp.test.app-debugAndroidTest-5 /home/ilisl/AndroidStudioProjects/MiraVeredaApp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

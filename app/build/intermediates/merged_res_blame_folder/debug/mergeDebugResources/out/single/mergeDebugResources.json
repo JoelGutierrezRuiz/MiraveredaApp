@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/layout_segunda_pantalla.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/layout/segunda_pantalla.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/layout_registro.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/layout/registro.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.miraveredaapp-debug-31:/layout_registro.xml.flat",
+        "source": "com.example.miraveredaapp-main-33:/layout/registro.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/layout_inicio_sesion.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/layout/inicio_sesion.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/xml_backup_rules.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/layout_item_recycler.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/layout/item_recycler.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.miraveredaapp-debug-31:/layout_inicio_sesion.xml.flat",
+        "source": "com.example.miraveredaapp-main-33:/layout/inicio_sesion.xml"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/ilisl/.gradle/daemon/8.6/com.example.miraveredaapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+    }
+]
