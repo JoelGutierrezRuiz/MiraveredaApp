@@ -17,5 +17,6 @@ public class RecyclerPeliculasActivity extends AppCompatActivity {
 
         inputBuscar = findViewById(R.id.inputBuscar);
         recyclerView = findViewById(R.id.recyclerView);
+
     }
 }
