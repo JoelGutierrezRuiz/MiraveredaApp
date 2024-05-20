@@ -26,7 +26,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4087d518-446d-45f8-a21f-5d93f92701b0" name="Changes" comment="Merge remote-tracking branch 'origin/master'" />
+    <list default="true" id="4087d518-446d-45f8-a21f-5d93f92701b0" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miraveredaApp" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +52,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -73,7 +76,8 @@
     "cidr.known.project.marker": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/home/ilisl/AndroidStudioProjects/MiraVeredaApp/app/src/main/java",
-    "last_opened_file_path": "/home/ilisl/AndroidStudioProjects/MiraVeredaApp"
+    "last_opened_file_path": "/home/ilisl/AndroidStudioProjects/MiraVeredaApp/MiraVeredaApp",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RecentsManager">

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MiraVeredaApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MiraVeredaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MiraVeredaApp.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
