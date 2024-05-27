@@ -28,8 +28,8 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/constraintDecorativoRegistro"
-        android:layout_width="301dp"
-        android:layout_height="573dp"
+        android:layout_width="300dp"
+        android:layout_height="600dp"
         android:background="#CB000000"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,8 +40,9 @@
             android:id="@+id/tiNombreRegistro"
             android:layout_width="220dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:hint="Nombre |"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -53,6 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:hint="Apellidos |"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -64,6 +66,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:hint="Email |"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
@@ -75,21 +78,11 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:hint="Dirección |"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/tiEmailRegistro" />
-
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/tiUsuarioRegistro"
-            android:layout_width="220dp"
-            android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
-            android:hint="Usuario |"
-            android:textColorHint="#FFFFFF"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tiDireccionRegistro" />
 
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/tiContrasenyaRegistro"
@@ -97,32 +90,71 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="16dp"
             android:hint="Contraseña |"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FFFFFF"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tiUsuarioRegistro" />
+            app:layout_constraintTop_toBottomOf="@+id/tiDireccionRegistro" />
 
         <Button
             android:id="@+id/btnRegistro"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="32dp"
+            android:layout_marginTop="16dp"
             android:text="Unirse"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/tiContrasenyaRegistro" />
+            app:layout_constraintTop_toBottomOf="@+id/tiFechaNacRegistro" />
 
         <TextView
             android:id="@+id/tvHaciaInicioSesion"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="32dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp"
             android:text="¿Ya tienes cuenta de MiraVereda?"
             android:textColor="#FFFFFF"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/btnRegistro" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tiTarjetaCreditoRegistro"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Tarjeta de credito |"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tiContrasenyaRegistro" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tiCPRegistro"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Codigo Postal |"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tiTarjetaCreditoRegistro" />
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/tiFechaNacRegistro"
+            android:layout_width="220dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Fecha de Nacimiento |"
+            android:textColor="#FFFFFF"
+            android:textColorHint="#FFFFFF"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tiCPRegistro" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

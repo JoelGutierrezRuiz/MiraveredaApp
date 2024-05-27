@@ -12,7 +12,6 @@ android {
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"
-
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -39,7 +38,13 @@ dependencies {
     implementation(libs.constraintlayout)
     implementation(libs.volley)
     implementation("com.squareup.picasso:picasso:2.71828")
+
     testImplementation(libs.junit)
     androidTestImplementation(libs.ext.junit)
     androidTestImplementation(libs.espresso.core)
+    implementation ("de.hdodenhof:circleimageview:3.1.0")
+    // Libreria para la manipulacion de json
+    implementation ("com.google.code.gson:gson:2.10.1")
+    // Libreria para las llamadas a la API
+    implementation ("com.squareup.retrofit2:retrofit:2.9.0")
 }
